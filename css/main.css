@@ -232,16 +232,25 @@ header nav ul li a:focus {
 
   .product h2 {
     font-size: 3rem;
-    padding-bottom: 1rem;
+    padding-bottom: 2rem;
   }
 
     .product p {
-      margin: 0 1.5rem 1.5rem 0;
+      margin: 0 1.5rem 1rem 0;
+      padding-bottom: 1rem;
     }
 
-  /* .product a {
-    margin: 0 10rem 0 0;
-  } */
+    .product a {
+      margin-bottom: 6rem;
+    }
+
+    .description {
+      padding: 1rem 8rem;
+    }
+
+    .reviews {
+      padding: 1rem 8rem;
+    }
 }
 
 footer {
